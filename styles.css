@@ -1,0 +1,24 @@
+h1, h2, h3, h4 {
+    text-align: center;
+    color: brown;
+}
+
+my-tag1 {
+    color: gray;
+    border-style: solid;
+}
+
+ my-tag2 {
+     color: gray;
+     font-weight: bold;
+}
+my-tag3 {
+    color:purple;
+    border-style: solid;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/750x/39/03/60/390360c18c15bac8b9a0b6ed2dc6c85d.jpg");
+    
+}
